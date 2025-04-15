@@ -1,3 +1,9 @@
 [submodule "Route-Planning-Project"]
 	path = Route-Planning-Project
 	url = https://github.com/krillavilla/Route-Planning-Project.git
+[submodule "System-Monitor-"]
+	path = System-Monitor-
+	url = https://github.com/krillavilla/System-Monitor-.git
+[submodule "Memory-Management-Chatbot"]
+	path = Memory-Management-Chatbot
+	url = https://github.com/krillavilla/Memory-Management-Chatbot.git
