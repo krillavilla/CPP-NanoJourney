@@ -7,3 +7,6 @@
 [submodule "Memory-Management-Chatbot"]
 	path = Memory-Management-Chatbot
 	url = https://github.com/krillavilla/Memory-Management-Chatbot.git
+[submodule "Concurrent-Traffic-Simulation"]
+	path = Concurrent-Traffic-Simulation
+	url = https://github.com/krillavilla/Concurrent-Traffic-Simulation.git
