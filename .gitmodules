@@ -10,3 +10,6 @@
 [submodule "Concurrent-Traffic-Simulation"]
 	path = Concurrent-Traffic-Simulation
 	url = https://github.com/krillavilla/Concurrent-Traffic-Simulation.git
+[submodule "Snake-Game"]
+	path = Snake-Game
+	url = https://github.com/krillavilla/Snake-Game.git
